@@ -1,0 +1,17 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Doula Emilie Young"
+
+[params]
+displayName = "EN"
+isoCode = "en"
+rtl = false
+dateFormat = "2 January 2006"
+description = "This is the profile site for Doula Emilie Young of Portland, OR"
+
+[author]
+name = "Emilie Young"
+headline = "This is the headline for Emilie Young"
+bio = "This is the bio for Emilie. "
+links = [ { amazon = "https://www.amazon.com/" }, { email = "emkatyoung@gmail.com" }, { eye = "https://itsabelly.com/doula-team/" } ]
